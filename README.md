@@ -2,7 +2,7 @@
 
 ## 1) [Real Estate and Property Management.pdf](https://github.com/AkmalBedrulzaman/AkmalBedrulzaman-Portfolio/files/10373880/Real.Estate.and.Property.Management.pdf) Dashboard with Microsoft Power BI
 
-       *credited to Data with Decision and Kaggle for the dataset [Housing Dataset]
+      *credited to Data with Decision and Kaggle for the dataset [Housing Dataset]
        
 
 
